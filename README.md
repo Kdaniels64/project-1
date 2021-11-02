@@ -41,7 +41,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux            |         
+| Jump Box | Gateway  | 10.0.0.4  | Linux            |         
 | Web-1   |Web Server - Docker - DVWA        |  10.0.0.5        |  linux                |
 | Web-2  | Web Server - Docker - DVWA         |  10.0.0.6        | linux                 |
 | ELK-Server	| elk stack | 10.1.0.4
